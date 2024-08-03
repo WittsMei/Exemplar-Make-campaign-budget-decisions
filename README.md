@@ -27,6 +27,7 @@ Record your LTV calculations in the table below.
 ****Formula****: LTV to CAC ratio = LTV/CAC
 
 Record your LTV to CAC ratios in the table below.
+
 <img width="636" alt="image" src="https://github.com/user-attachments/assets/db305bb2-691b-44c0-9393-384e05eeeb39">
 
 
